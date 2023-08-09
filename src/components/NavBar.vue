@@ -1,6 +1,4 @@
 <script setup lang="ts">
-//import HelloWorld from "./components/HelloWorld";
-
 const menuItems = [
   { title: 'Carousel', path: '#carousel' },
   { title: 'Intro', path: '#intro' },
